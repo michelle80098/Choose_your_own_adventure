@@ -18,7 +18,9 @@ My major is Computer Science and I minor in Machine Learning. I thought it would
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
 * I would like to improve on getting a higher accuracy score
 * Try to implement undersampling to see If I could get a better score
 * Try understanding the data and what each feature is to analyze and process the data better
+
+# Google Collab Python Notebook
+[Click here!](https://colab.research.google.com/gist/michelle80098/3e34aa74b7b0072c925f5b4f5ad91934/w07-module-adults.ipynb#scrollTo=k00p2pPZHV1i)
